@@ -1,0 +1,5 @@
+var DISQUSWIDGETS;
+
+if (typeof DISQUSWIDGETS != 'undefined') {
+    DISQUSWIDGETS.displayCount({"text":{"and":"dan","comments":{"zero":"0 Comments","multiple":"{num} Comments","one":"1 Comment"}},"counts":[{"id":"https:\/\/daengweb.id\/membuat-aplikasi-chatting-menggunakan-laravel-6-vuejs\/","comments":58},{"id":"https:\/\/daengweb.id\/membuat-datatable-dengan-vuejs-laravel-6\/","comments":29},{"id":"https:\/\/daengweb.id\/sistem-ongkos-kirim-ruangapi-menggunakan-vuejs\/","comments":5}]});
+}
